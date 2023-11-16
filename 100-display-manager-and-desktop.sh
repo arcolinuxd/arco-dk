@@ -63,7 +63,7 @@ arcolinux-dk-git
 polybar
 arcolinux-polybar-git
 archlinux-logout-git
-ttf-sourcecodepro-nerd
+nerd-fonts-source-code-pro
 rofi
 )
 
