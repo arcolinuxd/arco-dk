@@ -64,7 +64,7 @@ polybar
 arcolinux-polybar-git
 archlinux-logout-git
 nerd-fonts-source-code-pro
-rofi
+rofi-lbonn-wayland
 )
 
 count=0
